@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Modul C#\ARRAYS\02PrintNumbersinReverseOrder\02PrintNumbersinReverseOrder\bin\Debug\netcoreapp2.1\02PrintNumbersinReverseOrder.deps.json
+D:\SoftUni\Tech Modul C#\ARRAYS\02PrintNumbersinReverseOrder\02PrintNumbersinReverseOrder\bin\Debug\netcoreapp2.1\02PrintNumbersinReverseOrder.runtimeconfig.json
+D:\SoftUni\Tech Modul C#\ARRAYS\02PrintNumbersinReverseOrder\02PrintNumbersinReverseOrder\bin\Debug\netcoreapp2.1\02PrintNumbersinReverseOrder.runtimeconfig.dev.json
+D:\SoftUni\Tech Modul C#\ARRAYS\02PrintNumbersinReverseOrder\02PrintNumbersinReverseOrder\bin\Debug\netcoreapp2.1\02PrintNumbersinReverseOrder.dll
+D:\SoftUni\Tech Modul C#\ARRAYS\02PrintNumbersinReverseOrder\02PrintNumbersinReverseOrder\bin\Debug\netcoreapp2.1\02PrintNumbersinReverseOrder.pdb
+D:\SoftUni\Tech Modul C#\ARRAYS\02PrintNumbersinReverseOrder\02PrintNumbersinReverseOrder\obj\Debug\netcoreapp2.1\02PrintNumbersinReverseOrder.csprojAssemblyReference.cache
+D:\SoftUni\Tech Modul C#\ARRAYS\02PrintNumbersinReverseOrder\02PrintNumbersinReverseOrder\obj\Debug\netcoreapp2.1\02PrintNumbersinReverseOrder.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Modul C#\ARRAYS\02PrintNumbersinReverseOrder\02PrintNumbersinReverseOrder\obj\Debug\netcoreapp2.1\02PrintNumbersinReverseOrder.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Modul C#\ARRAYS\02PrintNumbersinReverseOrder\02PrintNumbersinReverseOrder\obj\Debug\netcoreapp2.1\02PrintNumbersinReverseOrder.AssemblyInfo.cs
+D:\SoftUni\Tech Modul C#\ARRAYS\02PrintNumbersinReverseOrder\02PrintNumbersinReverseOrder\obj\Debug\netcoreapp2.1\02PrintNumbersinReverseOrder.dll
+D:\SoftUni\Tech Modul C#\ARRAYS\02PrintNumbersinReverseOrder\02PrintNumbersinReverseOrder\obj\Debug\netcoreapp2.1\02PrintNumbersinReverseOrder.pdb

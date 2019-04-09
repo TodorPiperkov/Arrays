@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\08CondenseArraytoNumber\bin\Debug\netcoreapp2.1\08CondenseArraytoNumber.deps.json
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\08CondenseArraytoNumber\bin\Debug\netcoreapp2.1\08CondenseArraytoNumber.runtimeconfig.json
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\08CondenseArraytoNumber\bin\Debug\netcoreapp2.1\08CondenseArraytoNumber.runtimeconfig.dev.json
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\08CondenseArraytoNumber\bin\Debug\netcoreapp2.1\08CondenseArraytoNumber.dll
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\08CondenseArraytoNumber\bin\Debug\netcoreapp2.1\08CondenseArraytoNumber.pdb
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\08CondenseArraytoNumber\obj\Debug\netcoreapp2.1\08CondenseArraytoNumber.csprojAssemblyReference.cache
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\08CondenseArraytoNumber\obj\Debug\netcoreapp2.1\08CondenseArraytoNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\08CondenseArraytoNumber\obj\Debug\netcoreapp2.1\08CondenseArraytoNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\08CondenseArraytoNumber\obj\Debug\netcoreapp2.1\08CondenseArraytoNumber.AssemblyInfo.cs
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\08CondenseArraytoNumber\obj\Debug\netcoreapp2.1\08CondenseArraytoNumber.dll
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\08CondenseArraytoNumber\obj\Debug\netcoreapp2.1\08CondenseArraytoNumber.pdb

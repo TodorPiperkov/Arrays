@@ -1,0 +1,10 @@
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\04ReverseArrayofStrings\bin\Debug\netcoreapp2.1\04ReverseArrayofStrings.deps.json
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\04ReverseArrayofStrings\bin\Debug\netcoreapp2.1\04ReverseArrayofStrings.runtimeconfig.json
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\04ReverseArrayofStrings\bin\Debug\netcoreapp2.1\04ReverseArrayofStrings.runtimeconfig.dev.json
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\04ReverseArrayofStrings\bin\Debug\netcoreapp2.1\04ReverseArrayofStrings.dll
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\04ReverseArrayofStrings\bin\Debug\netcoreapp2.1\04ReverseArrayofStrings.pdb
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\04ReverseArrayofStrings\obj\Debug\netcoreapp2.1\04ReverseArrayofStrings.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\04ReverseArrayofStrings\obj\Debug\netcoreapp2.1\04ReverseArrayofStrings.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\04ReverseArrayofStrings\obj\Debug\netcoreapp2.1\04ReverseArrayofStrings.AssemblyInfo.cs
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\04ReverseArrayofStrings\obj\Debug\netcoreapp2.1\04ReverseArrayofStrings.dll
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\04ReverseArrayofStrings\obj\Debug\netcoreapp2.1\04ReverseArrayofStrings.pdb

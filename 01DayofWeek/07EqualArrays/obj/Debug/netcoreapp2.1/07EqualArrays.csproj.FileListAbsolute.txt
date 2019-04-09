@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\07EqualArrays\bin\Debug\netcoreapp2.1\07EqualArrays.deps.json
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\07EqualArrays\bin\Debug\netcoreapp2.1\07EqualArrays.runtimeconfig.json
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\07EqualArrays\bin\Debug\netcoreapp2.1\07EqualArrays.runtimeconfig.dev.json
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\07EqualArrays\bin\Debug\netcoreapp2.1\07EqualArrays.dll
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\07EqualArrays\bin\Debug\netcoreapp2.1\07EqualArrays.pdb
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\07EqualArrays\obj\Debug\netcoreapp2.1\07EqualArrays.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\07EqualArrays\obj\Debug\netcoreapp2.1\07EqualArrays.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\07EqualArrays\obj\Debug\netcoreapp2.1\07EqualArrays.AssemblyInfo.cs
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\07EqualArrays\obj\Debug\netcoreapp2.1\07EqualArrays.dll
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\07EqualArrays\obj\Debug\netcoreapp2.1\07EqualArrays.pdb
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\07EqualArrays\obj\Debug\netcoreapp2.1\07EqualArrays.csprojAssemblyReference.cache

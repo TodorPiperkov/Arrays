@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\03RoundNumbers\bin\Debug\netcoreapp2.1\03RoundNumbers.deps.json
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\03RoundNumbers\bin\Debug\netcoreapp2.1\03RoundNumbers.runtimeconfig.json
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\03RoundNumbers\bin\Debug\netcoreapp2.1\03RoundNumbers.runtimeconfig.dev.json
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\03RoundNumbers\bin\Debug\netcoreapp2.1\03RoundNumbers.dll
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\03RoundNumbers\bin\Debug\netcoreapp2.1\03RoundNumbers.pdb
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\03RoundNumbers\obj\Debug\netcoreapp2.1\03RoundNumbers.csprojAssemblyReference.cache
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\03RoundNumbers\obj\Debug\netcoreapp2.1\03RoundNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\03RoundNumbers\obj\Debug\netcoreapp2.1\03RoundNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\03RoundNumbers\obj\Debug\netcoreapp2.1\03RoundNumbers.AssemblyInfo.cs
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\03RoundNumbers\obj\Debug\netcoreapp2.1\03RoundNumbers.dll
+D:\SoftUni\Tech Modul C#\ARRAYS\01DayofWeek\03RoundNumbers\obj\Debug\netcoreapp2.1\03RoundNumbers.pdb
